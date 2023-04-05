@@ -1,0 +1,23 @@
+li {
+    margin: 10px;
+}
+
+.gatito{
+    height: 55px;
+    margin-left: 20px;
+}
+
+
+.carousel-item{
+    height: 625px;
+    object-fit:scale-down;
+}
+
+.card-img-top{
+    height: 600px;
+    object-fit:cover;
+}
+
+.mb-3{
+    margin: 30px;
+}
